@@ -1,4 +1,4 @@
-# Power_BI_Project
+# PowerBI Project
 <h1 align="center">Hi, My name is Nikolai!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
@@ -13,7 +13,7 @@
       <strong>Description:</strong> My dashboard project is about a Professional Survey of such things as
 the survey takers average age, their countries, jobs, difficulty for them to switch into Data, 
 the programming language they prefer, happiness with their salary and with work/life balance and this survey is done with Power BI from scratch.<br>
-      <img src="Tableau Dashboard Picture/HR Dashboard.png">
+      <img src="images/photo_2024-12-11_11-27-57.jpg">
       </p>
    </li>
 </ol>
@@ -36,4 +36,4 @@ the programming language they prefer, happiness with their salary and with work/
    <li>
       E-mail: <a href="mailto:nikolaybogdanov953@gmail.com">Nikolai Bogdanov</a>
    </li>
-</ul>ss
+</ul>
