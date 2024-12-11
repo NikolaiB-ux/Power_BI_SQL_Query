@@ -9,10 +9,10 @@
    <li>
       <h3>Data Professional Survey</h3>
       <p>
-      <strong>Power BI Dashboard:</strong> <a href="     ">Data Professional Survey</a><br>
+      <strong>Power BI Dashboard:</strong> <a href="https://github.com/NikolaiB-ux/Power_BI_Project/blob/main/images/photo_2024-12-11_11-27-57.jpg">Data Professional Survey</a><br>
       <strong>Description:</strong> My dashboard project is about a Professional Survey of such things as
-the survey takers average age, their countries, jobs, how difficult it was for them to switch into Data, 
-the programming language they prefer, happiness with their salary and with work/life balance and this survey is made with Power BI from scratch.<br>
+the survey takers average age, their countries, jobs, difficulty for them to switch into Data, 
+the programming language they prefer, happiness with their salary and with work/life balance and this survey is done with Power BI from scratch.<br>
       <img src="Tableau Dashboard Picture/HR Dashboard.png">
       </p>
    </li>
@@ -31,9 +31,9 @@ the programming language they prefer, happiness with their salary and with work/
 <h2>Contacts</h2>
 <ul>
    <li>
-      Telegram: <a href="https://t.me/ivan_aksyonov">Ivan Aksyonov</a>
+      Telegram: <a href="https://t.me/Nikolay23B">Nikolai Bogdanov</a>
    </li>
    <li>
-      E-mail: <a href="mailto:ivan_aksyonov@inbox.ru">Ivan Aksyonov</a>
+      E-mail: <a href="mailto:nikolaybogdanov953@gmail.com">Nikolai Bogdanov</a>
    </li>
-</ul>
+</ul>ss
