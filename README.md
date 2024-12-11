@@ -9,7 +9,7 @@
    <li>
       <h3>Data Professional Survey</h3>
       <p>
-      <strong>Power BI Dashboard:</strong> <a href="https://public.tableau.com/app/profile/ivan2501/viz/HRKPIsforBonuses/Dashboard1">Data Professional Survey</a><br>
+      <strong>Power BI Dashboard:</strong> <a href="     ">Data Professional Survey</a><br>
       <strong>Description:</strong> My dashboard project is about a Professional Survey of such things as
 the survey takers average age, their countries, jobs, how difficult it was for them to switch into Data, 
 the programming language they prefer, happiness with their salary and with work/life balance and this survey is made with Power BI from scratch.<br>
