@@ -7,13 +7,21 @@
 <h2>This is my portfolio for data analytics projects:</h2>
 <ol>
    <li>
-      <h3>Data Professional Survey</h3>
+      <h3>Data Professional Survey and SQL Query</h3>
       <p>
       <strong>Power BI Dashboard:</strong> <a href="https://github.com/NikolaiB-ux/Power_BI_Project/blob/main/images/photo_2024-12-11_11-27-57.jpg">Data Professional Survey</a><br>
       <strong>Description:</strong> My dashboard project is about a Professional Survey of such things as
 the survey takers average age, their countries, jobs, difficulty for them to switch into Data, 
 the programming language they prefer, happiness with their salary and with work/life balance and this survey is done with Power BI from scratch.<br>
       <img src="images/photo_2024-12-11_11-27-57.jpg">
+      </p>
+   </li>
+   <li>
+      <h3>Data Professional Survey and SQL Query</h3>
+      <p>
+      <strong>SQL Join Query:</strong> <a href="https://github.com/NikolaiB-ux/Power_BI_Project/blob/main/images/SQL_Join_Query.jpg">SQL Join Query</a><br>
+      <strong>Description:</strong> My SQL Query is about creating a query by using Joins that can help to reveal top 10 popular goods delivered in September 2022 <br>
+      <img src="images/SQL_Join_Query.jpg">
       </p>
    </li>
 </ol>
