@@ -9,7 +9,7 @@
    <li>
       <h3>Аналитика Продаж товаров для офиса</h3>
       <p>
-      <strong>Power BI Dashboard:</strong> <a href="https://github.com/NikolaiB-ux/Power_BI_Project/blob/main/images/photo_2024-12-11_11-27-57.jpg">Аналитика Продаж товаров для офиса</a><br>
+      <strong>Power BI Dashboard:</strong> <a href="https://github.com/NikolaiB-ux/Power_BI_SQL_Query/blob/main/images/photo_2025-04-22_18-26-041.jpg">Аналитика Продаж товаров для офиса</a><br>
       <strong>Описание:</strong> Разработка дашборда в Power BI на основе "сырых данных".Создание моделей данных.
        Создание вычисляемых столбцов. 
        Проведение подсчетов и создание карточек KPI с такими ключевыми метриками как Выручка, Прибыль, Рентабельность, АКБ, Затраты на логистику. 
